@@ -1,4 +1,4 @@
 # Ecommerce-DataAnalysis
-This is an Analysis to Ecommerce data, the data is available on kaggle (but i don't have the link, Sorry :( ),
+This is an Analysis to Ecommerce data, the data is available on kaggle (but i don't have the link, Sorry :( ) \n,
 i made analysis with: pandas.
 visualization with: plotly.
