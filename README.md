@@ -1,4 +1,5 @@
 # Ecommerce-DataAnalysis
-- This is an Analysis to Ecommerce data, i don't have the link, Sorry :(  
+- This is an Analysis to Ecommerce data with dashboard as web application  
 - The analysis with: pandas.  
 - The visualization with: plotly.
+- The web application with: streamlit.
