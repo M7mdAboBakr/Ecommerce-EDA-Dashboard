@@ -8,7 +8,7 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
 )
-df = pd.read_csv("../df_EDA.csv")
+df = pd.read_csv("df_EDA.csv")
 df.columns = df.columns.str.replace("_", " ").str.title()
 # droping the outlier
 df.drop(619, axis=0, inplace=True)
