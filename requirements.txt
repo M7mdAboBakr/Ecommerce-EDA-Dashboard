@@ -3,3 +3,4 @@ plotly==5.18.0
 Requests==2.32.3
 streamlit==1.31.0
 streamlit_lottie==0.0.5
+matplotlib
