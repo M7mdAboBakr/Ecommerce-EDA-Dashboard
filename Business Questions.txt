@@ -1,0 +1,9 @@
+1- What are the total Order value for each country? C
+2- What each Major Category sold quantity? CA
+3- What's Total Order Value for each Minor Item in Kitchen? CA
+4- What Month/s contributes to high demand in orders? G
+5- What Hour recives high demand for ordering? G
+6- What's the time of the day that contributes to high Order Values? G
+7- Order Value For each Country in each month? C
+8- What's the Top 5 sold products? G
+9- What's the year quarter high demand for ordering? G
